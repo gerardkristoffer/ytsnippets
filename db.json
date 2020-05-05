@@ -9,9 +9,15 @@
     },
     { 
       "html_id": "remove-slate-pieces-video", 
-      "video_id": "62B32wcZC3o", 
+      "video_id": "2pbgbc-qXsY", 
       "start_time": 175, 
       "stop_time": 200 
-    }
+    },
+    { 
+      "html_id": "test-another-video", 
+      "video_id": "62B32wcZC3o", 
+      "start_time": 60, 
+      "stop_time": 90 
+    },
   ]
 }
